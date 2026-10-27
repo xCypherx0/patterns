@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "lab1/src", "lab2/src", "lab3/src", "lab4/src",
+        "lab5/src", "lab6/src", "lab7/src", "lab8/src"
+    ],
+    "java.project.outputPath": "bin",
+    "terminal.integrated.env.windows": {
+        "JAVA_TOOL_OPTIONS": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    }
+}
