@@ -1,0 +1,155 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Лаба 1",
+      "request": "launch",
+      "mainClass": "lab1.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 2",
+      "request": "launch",
+      "mainClass": "lab2.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 3",
+      "request": "launch",
+      "mainClass": "lab3.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 4",
+      "request": "launch",
+      "mainClass": "lab4.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 5",
+      "request": "launch",
+      "mainClass": "lab5.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 6",
+      "request": "launch",
+      "mainClass": "lab6.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 7",
+      "request": "launch",
+      "mainClass": "lab7.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 8",
+      "request": "launch",
+      "mainClass": "lab8.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 9",
+      "request": "launch",
+      "mainClass": "lab9.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 10",
+      "request": "launch",
+      "mainClass": "lab10.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 11",
+      "request": "launch",
+      "mainClass": "lab11.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 12",
+      "request": "launch",
+      "mainClass": "lab12.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 13",
+      "request": "launch",
+      "mainClass": "lab13.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 14",
+      "request": "launch",
+      "mainClass": "lab14.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Лаба 15",
+      "request": "launch",
+      "mainClass": "lab15.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "encoding": "UTF-8",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8"
+    }
+  ]
+}
